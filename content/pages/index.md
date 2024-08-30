@@ -38,7 +38,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: code projects
     items:
       - type: FeaturedItem
         title: ''
