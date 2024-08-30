@@ -42,7 +42,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >+
           ![](https://levuduc.netlify.app/images/Bildschirmfoto%202024-06-14%20um%2012.57.40.png)
 
