@@ -38,7 +38,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: code projects
+    subtitle: coding Projects
     items:
       - type: FeaturedItem
         title: ''
