@@ -8,19 +8,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Undergraduate Student
-    text: >
-      A passionate web development and design enthusiast who has chosen to
-      pursue this path.
+    text: >+
+      \<div style="text-align: center">A passionate web development and design
+      enthusiast who has chosen to pursue this path.\</div>
 
 
-      Driven by a strong desire to learn and grow, I am committed to expanding
-      my knowledge and skills in web development and design.
+      \<div style="text-align: center">Driven by a strong desire to learn and
+      grow, I am committed to expanding my knowledge and skills in web
+      development and design.Currently, I am an undergraduate student in
+      International Media and Computer Science at HTW University of Applied
+      Sciences, Berlin, Germany, where I have already gained substantial
+      knowledge in HTML, CSS, Java, and JavaScript.\</div>
 
-
-      Currently, I am an undergraduate student in International Media and
-      Computer Science at HTW University of Applied Sciences, Berlin, Germany,
-      where I have already gained substantial knowledge in HTML, CSS, Java, and
-      JavaScript.
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
