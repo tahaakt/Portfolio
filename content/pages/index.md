@@ -22,7 +22,7 @@ sections:
       styles:
         self:
           padding:
-            - pt-10
+            - pt-0
             - pb-12
     elementId: ''
     colors: bg-light-fg-dark
