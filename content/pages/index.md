@@ -15,7 +15,7 @@ sections:
 
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/IMG_3500.JPG
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
