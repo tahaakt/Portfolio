@@ -23,6 +23,7 @@ sections:
           padding:
             - pt-0
             - pb-0
+      url: /images/IMG_3354.JPG
     elementId: ''
     colors: bg-light-fg-dark
     styles:
