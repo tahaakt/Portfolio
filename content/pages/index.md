@@ -8,11 +8,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Undergraduate Student
-    text: >+
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >
+      A passionate web development and design enthusiast who has chosen to
+      pursue this path.
 
+
+      Driven by a strong desire to learn and grow, I am committed to expanding
+      my knowledge and skills in web development and design.
+
+
+      Currently, I am an undergraduate student in International Media and
+      Computer Science at HTW University of Applied Sciences, Berlin, Germany,
+      where I have already gained substantial knowledge in HTML, CSS, Java, and
+      JavaScript.
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
